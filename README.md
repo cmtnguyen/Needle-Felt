@@ -1,5 +1,6 @@
-# march
+# March
 Click-to-play rpg game
+HTML, CSS, Javascript
 
 # Image credits: 
 Beach Sunset: https://www.pxwall.com/wp-content/uploads/2019/03/Beach-Sunset-Background.jpg
